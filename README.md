@@ -63,11 +63,6 @@ Evaluation Metric:
 
 The final model was selected based on its prediction performance after comparing multiple regression algorithms.
 
-
-# Application Screenshot
-
-> Add a screenshot of your Streamlit app here.
-
 # Run Locally
 
 Clone the repository
